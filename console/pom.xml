@@ -12,11 +12,13 @@
     <artifactId>console</artifactId>
 
     <dependencies>
+
         <dependency>
             <groupId>ben.learn.spring</groupId>
             <artifactId>core</artifactId>
             <version>${project.version}</version>
         </dependency>
+
     </dependencies>
 
     <build>
